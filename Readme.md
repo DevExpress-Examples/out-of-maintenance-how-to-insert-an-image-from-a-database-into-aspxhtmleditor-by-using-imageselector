@@ -3,9 +3,9 @@
 
 * [XpoObject.cs](./CS/WebSite/App_Code/XpoObject.cs) (VB: [XpoObject.vb](./VB/WebSite/App_Code/XpoObject.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [SelectImageForm.ascx](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx) (VB: [SelectImageForm.ascx](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx))
-* [SelectImageForm.ascx.cs](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx.cs) (VB: [SelectImageForm.ascx](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx))
+* [SelectImageForm.ascx.cs](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx.cs) (VB: [SelectImageForm.ascx.vb](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx.vb))
 * [Image.ashx](./CS/WebSite/Image.ashx) (VB: [Image.ashx](./VB/WebSite/Image.ashx))
 <!-- default file list end -->
 # How to insert an image from a database into ASPxHtmlEditor by using ImageSelector
