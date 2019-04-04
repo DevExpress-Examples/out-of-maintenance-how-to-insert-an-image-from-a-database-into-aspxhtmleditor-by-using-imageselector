@@ -3,7 +3,7 @@
 
 * [LinqFileSystemProvider.cs](./CS/App_Code/LinqFileSystemProvider.cs) (VB: [LinqFileSystemProvider.vb](./VB/App_Code/LinqFileSystemProvider.vb))
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 * [Image.ashx](./CS/Image.ashx) (VB: [Image.ashx](./VB/Image.ashx))
 <!-- default file list end -->
 # How to insert an image from a database into ASPxHtmlEditor by using ImageSelector
