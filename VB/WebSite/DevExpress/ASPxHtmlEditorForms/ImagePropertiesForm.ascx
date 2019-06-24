@@ -1,5 +1,5 @@
 <%@ Control Language="vb" AutoEventWireup="true" CodeFile="ImagePropertiesForm.ascx.vb" Inherits="ImagePropertiesForm" %>
-<%@ Register Assembly="DevExpress.Web.ASPxEditors.v11.1, Version=11.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxEditors" TagPrefix="dxe" %>
+<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxEditors" TagPrefix="dxe" %>
 <table cellpadding="0" cellspacing="0" id="dxImagePropertiesForm">
 	<tr>
 		<td>
