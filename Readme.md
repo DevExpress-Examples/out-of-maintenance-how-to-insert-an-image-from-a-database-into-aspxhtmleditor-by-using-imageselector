@@ -7,6 +7,9 @@
 * [Image.ashx](./CS/Image.ashx) (VB: [Image.ashx](./VB/Image.ashx))
 <!-- default file list end -->
 # How to insert an image from a database into ASPxHtmlEditor by using ImageSelector
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3336/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to insert an image stored in a database into the ASPxHtmlEditor form by using ImageSelector.</p>
